@@ -1,1 +1,33 @@
 # AngelaYu
+
+Exercise archive from Angela Yu's web development course, covering HTML and CSS fundamentals.
+
+## Sections
+
+- `2.1 Heading Element` — heading markup.
+- `3.0 List Elements`, `3.1 Nesting and Indentation` — lists and document structure.
+- `3.2 Anchor Elements`, `3.3 Image Elements`, `3.4 Birthday Invite Project` — links, images, and a small project.
+- `4.0 File Paths`, `4.3 HTML Porfolio Project` — relative paths and a multi-page portfolio.
+- `5.1. Adding CSS`, `5.3 CSS Selectors`, `5.4 Color Vocab Project` — stylesheets, selectors, and colour practice.
+- `6.0 CSS Colors` — colour values and contrast.
+- `Capstone1` — first capstone exercise.
+
+Most folders contain a `goal.png` reference image plus `index.html` and one or more solution files.
+
+## Running
+
+No build step is required. Open any `index.html` in a browser, or serve the directory:
+
+```sh
+python3 -m http.server 8000
+```
+
+Then browse to `http://localhost:8000`.
+
+## Purpose
+
+The repository preserves the exercises and personal solutions for later reference. It is not a single application.
+
+## Additional Notes
+
+- **file paths** — Document any manual steps that cannot be automated.
