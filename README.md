@@ -31,3 +31,4 @@ The repository preserves the exercises and personal solutions for later referenc
 ## Additional Notes
 
 - **file paths** — Document any manual steps that cannot be automated.
+- **heading elements** — Update the documentation if the visible behavior changes.
