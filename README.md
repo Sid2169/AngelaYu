@@ -35,3 +35,4 @@ The repository preserves the exercises and personal solutions for later referenc
 - **semantic HTML** — Confirm the expected behavior on a clean checkout.
 - **list elements** — Confirm the expected behavior on a clean checkout.
 - **CSS selectors** — Check the relevant browser or runtime support.
+- **list elements** — Keep the related setup steps aligned with the current scripts.
