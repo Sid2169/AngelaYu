@@ -34,3 +34,4 @@ The repository preserves the exercises and personal solutions for later referenc
 - **heading elements** — Update the documentation if the visible behavior changes.
 - **semantic HTML** — Confirm the expected behavior on a clean checkout.
 - **list elements** — Confirm the expected behavior on a clean checkout.
+- **CSS selectors** — Check the relevant browser or runtime support.
