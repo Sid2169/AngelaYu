@@ -37,3 +37,4 @@ The repository preserves the exercises and personal solutions for later referenc
 - **CSS selectors** — Check the relevant browser or runtime support.
 - **list elements** — Keep the related setup steps aligned with the current scripts.
 - **CSS selectors** — Update the documentation if the visible behavior changes.
+- **CSS colours** — Add a screenshot or example when it clarifies the workflow.
