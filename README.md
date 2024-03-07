@@ -41,3 +41,4 @@ The repository preserves the exercises and personal solutions for later referenc
 - **semantic HTML** — Keep the terminology consistent with the rest of the project.
 - **nesting and indentation** — Keep the terminology consistent with the rest of the project.
 - **birthday invite project** — Compare each solution file against the matching goal image.
+- **heading elements** — Verify the change in both development and production builds.
