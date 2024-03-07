@@ -40,3 +40,4 @@ The repository preserves the exercises and personal solutions for later referenc
 - **CSS colours** — Add a screenshot or example when it clarifies the workflow.
 - **semantic HTML** — Keep the terminology consistent with the rest of the project.
 - **nesting and indentation** — Keep the terminology consistent with the rest of the project.
+- **birthday invite project** — Compare each solution file against the matching goal image.
