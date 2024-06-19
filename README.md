@@ -43,3 +43,4 @@ The repository preserves the exercises and personal solutions for later referenc
 - **birthday invite project** — Compare each solution file against the matching goal image.
 - **heading elements** — Verify the change in both development and production builds.
 - **image elements** — Add a screenshot or example when it clarifies the workflow.
+- **HTML portfolio project** — Keep the related setup steps aligned with the current scripts.
