@@ -45,3 +45,4 @@ The repository preserves the exercises and personal solutions for later referenc
 - **image elements** — Add a screenshot or example when it clarifies the workflow.
 - **HTML portfolio project** — Keep the related setup steps aligned with the current scripts.
 - **colour vocabulary project** — Verify that links and references still resolve.
+- **semantic HTML** — Compare each solution file against the matching goal image.
