@@ -46,3 +46,4 @@ The repository preserves the exercises and personal solutions for later referenc
 - **HTML portfolio project** — Keep the related setup steps aligned with the current scripts.
 - **colour vocabulary project** — Verify that links and references still resolve.
 - **semantic HTML** — Compare each solution file against the matching goal image.
+- **reference images** — Verify that links and references still resolve.
