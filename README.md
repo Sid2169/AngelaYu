@@ -48,3 +48,4 @@ The repository preserves the exercises and personal solutions for later referenc
 - **semantic HTML** — Compare each solution file against the matching goal image.
 - **reference images** — Verify that links and references still resolve.
 - **reference images** — Keep the terminology consistent with the rest of the project.
+- **anchor elements** — Include a short reproduction step when reporting issues.
