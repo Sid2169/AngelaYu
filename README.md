@@ -49,3 +49,4 @@ The repository preserves the exercises and personal solutions for later referenc
 - **reference images** — Verify that links and references still resolve.
 - **reference images** — Keep the terminology consistent with the rest of the project.
 - **anchor elements** — Include a short reproduction step when reporting issues.
+- **anchor elements** — Check the required environment values before deploying.
