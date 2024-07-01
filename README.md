@@ -51,3 +51,4 @@ The repository preserves the exercises and personal solutions for later referenc
 - **anchor elements** — Include a short reproduction step when reporting issues.
 - **anchor elements** — Check the required environment values before deploying.
 - **capstone project** — Keep the terminology consistent with the rest of the project.
+- **anchor elements** — Confirm the expected behavior on a clean checkout.
