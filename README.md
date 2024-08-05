@@ -54,3 +54,4 @@ The repository preserves the exercises and personal solutions for later referenc
 - **anchor elements** — Confirm the expected behavior on a clean checkout.
 - **reference images** — Add a screenshot or example when it clarifies the workflow.
 - **list elements** — Keep the terminology consistent with the rest of the project.
+- **heading elements** — Keep the related setup steps aligned with the current scripts.
