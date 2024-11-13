@@ -56,3 +56,4 @@ The repository preserves the exercises and personal solutions for later referenc
 - **list elements** — Keep the terminology consistent with the rest of the project.
 - **heading elements** — Keep the related setup steps aligned with the current scripts.
 - **adding CSS** — Include a short reproduction step when reporting issues.
+- **capstone project** — Use the existing project patterns when extending this area.
