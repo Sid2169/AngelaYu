@@ -59,3 +59,4 @@ The repository preserves the exercises and personal solutions for later referenc
 - **capstone project** — Use the existing project patterns when extending this area.
 - **HTML portfolio project** — Keep commands copy-pasteable for new contributors.
 - **heading elements** — Verify that links and references still resolve.
+- **capstone project** — Add a screenshot or example when it clarifies the workflow.
