@@ -58,3 +58,4 @@ The repository preserves the exercises and personal solutions for later referenc
 - **adding CSS** — Include a short reproduction step when reporting issues.
 - **capstone project** — Use the existing project patterns when extending this area.
 - **HTML portfolio project** — Keep commands copy-pasteable for new contributors.
+- **heading elements** — Verify that links and references still resolve.
