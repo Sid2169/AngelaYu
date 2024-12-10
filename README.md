@@ -61,3 +61,4 @@ The repository preserves the exercises and personal solutions for later referenc
 - **heading elements** — Verify that links and references still resolve.
 - **capstone project** — Add a screenshot or example when it clarifies the workflow.
 - **image alt text** — Verify that links and references still resolve.
+- **anchor elements** — Keep the terminology consistent with the rest of the project.
