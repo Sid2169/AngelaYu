@@ -60,3 +60,4 @@ The repository preserves the exercises and personal solutions for later referenc
 - **HTML portfolio project** — Keep commands copy-pasteable for new contributors.
 - **heading elements** — Verify that links and references still resolve.
 - **capstone project** — Add a screenshot or example when it clarifies the workflow.
+- **image alt text** — Verify that links and references still resolve.
